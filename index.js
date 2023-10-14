@@ -46,7 +46,7 @@ function createAccountETH() {
     setTimeout(() => {
       console.log(
         chalk.green(
-          'All wallets have been created. Check result.txt to check your results.'
+          'All wallets have been created. Check result.txt to check your results (the address and private key).'
         )
       );
     }, 3000);

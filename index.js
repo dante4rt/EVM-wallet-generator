@@ -31,7 +31,7 @@ function createAccountETH() {
       if (theWallet) {
         appendFileSync(
           './result.txt',
-          `${theWallet.address} | ${createWalletResult.privateKey}\n`
+          `Address: ${theWallet.address} | Private Key: ${createWalletResult.privateKey}\n`
         );
         console.log(
           chalk.green(

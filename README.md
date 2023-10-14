@@ -2,9 +2,11 @@
 
 This is my first bot. So, I hope you'll enjoy it.
 
-TL;DR => 
+TL;DR => <br>
 This is The Ethereum AUTO Wallet Generator. So, you didn't need to take a lot of time to create tons of wallets. <br>
 Just install the script, enter the number of wallets that you want, and it's done!
+
+<br>
 
 How to use?
 

@@ -2,7 +2,7 @@
 
 This is my first bot. So, I hope you'll enjoy it.
 
-![Result v2](https://i.ibb.co/RhtzYW4/Screenshot-at-Oct-14-21-02-59.png)
+![Result v2](https://gcdnb.pbrd.co/images/SnX5DbPnnKhR.png)
 
 TL;DR => <br>
 This is The Ethereum AUTO Wallet Generator. So, you didn't need to take a lot of time to create tons of wallets. <br>

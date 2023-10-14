@@ -10,7 +10,7 @@ How to use?
 
 First, you need to clone this repo: <br>
 ```
-git clone ...
+git clone https://github.com/dante4rt/evm-wallet-generator.git
 ```
 
 <br>
@@ -35,8 +35,8 @@ Put the amount that you want, example: 5 wallets => Input "5".
 
 <br>
 
-Remember, <br>
+Remember: <br>
 You need to have NodeJS on your computer => https://nodejs.org/en.
 
-<br><br>
+<br>
 Any questions? You can contact me at ramadhani@myself.com ^_^

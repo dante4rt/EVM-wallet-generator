@@ -35,7 +35,7 @@ function createAccountETH() {
         );
         console.log(
           chalk.green(
-            `[${moment().format('HH:mm:ss')}] => ` + 'Wallet created...!'
+            `[${moment().format('HH:mm:ss')}] => ` + 'Wallet created...! Your address: ' + theWallet.address
           )
         );
       }

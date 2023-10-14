@@ -19,13 +19,16 @@ git clone https://github.com/dante4rt/evm-wallet-generator.git
 
 <br>
 
+After that, go to the folder: <br>
+```
+cd evm-wallet-generator
+```
+
+<br>
+
 Then, you need to install it: <br>
 ```
 npm install
-```
-or 
-```
-npm i
 ```
 
 <br>

@@ -8,8 +8,9 @@ function createAccountETH() {
   const wallet = ethers.Wallet.createRandom();
   const privateKey = wallet.privateKey;
   const publicKey = wallet.publicKey;
+  const mnemonicKey = wallet.mnemonic.phrase;
 
-  return { privateKey, publicKey };
+  return { privateKey, publicKey, mnemonicKey };
 }
 
 (async () => {
@@ -31,7 +32,7 @@ function createAccountETH() {
       if (theWallet) {
         appendFileSync(
           './result.txt',
-          `Address: ${theWallet.address} | Private Key: ${createWalletResult.privateKey}\n`
+          `Address: ${theWallet.address} | Private Key: ${createWalletResult.privateKey} | Mnemonic: ${createWalletResult.mnemonicKey}\n`
         );
         console.log(
           chalk.green(
@@ -46,7 +47,7 @@ function createAccountETH() {
     setTimeout(() => {
       console.log(
         chalk.green(
-          'All wallets have been created. Check result.txt to check your results (the address and private key).'
+          'All wallets have been created. Check result.txt to check your results (the address, mnemonic and private key).'
         )
       );
     }, 3000);

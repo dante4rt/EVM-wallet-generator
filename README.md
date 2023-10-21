@@ -44,6 +44,3 @@ Put the amount that you want, example: 5 wallets => Input "5".
 
 Remember: <br>
 You need to have NodeJS on your computer => https://nodejs.org/en.
-
-<br>
-Any questions? You can contact me at ramadhani@myself.com ^_^

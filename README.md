@@ -1,16 +1,13 @@
 # evm-wallet-generator
 
-This is my first bot. So, I hope you'll enjoy it.
+Welcome to the Ethereum AUTO Wallet Generator, a simple script to effortlessly generate Ethereum wallets in bulk. No need to spend a lot of time creating multiple wallets manually – just follow the steps below!
 
 ![Result v2](https://gcdnb.pbrd.co/images/SnX5DbPnnKhR.png)
 
-TL;DR => <br>
-This is The Ethereum AUTO Wallet Generator. So, you didn't need to take a lot of time to create tons of wallets. <br>
-Just install the script, enter the number of wallets that you want, and it's done!
+## TL;DR => <br>
+This script automates the process of generating Ethereum wallets. Clone the repository, install the dependencies, run the script, enter the desired number of wallets, and you're good to go!
 
-<br>
-
-How to use?
+## How to use?
 
 First, you need to clone this repo: <br>
 ```
@@ -42,5 +39,5 @@ Put the amount that you want, example: 5 wallets => Input "5".
 
 <br>
 
-Remember: <br>
-You need to have NodeJS on your computer => https://nodejs.org/en.
+## Prerequisites: <br>
+Make sure you have Node.js installed on your computer. If not, you can download it here: https://nodejs.org/en.
